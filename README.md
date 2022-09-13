@@ -1,4 +1,4 @@
-<center>
+
 <h>obs-ubuntu-18.04</h1>
 # 1
 ```
@@ -23,4 +23,4 @@ sudo apt install snapd
 ```
 sudo snap install obs-studio
 ```
-</center>
+
